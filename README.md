@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Web and mobile development in React and React Native, Graphic Design with Canva, Edtech topics **
 
-- - 🎈 Fun Fact about me: I like to work remote and flexibly badly that i will reject a high paying onsite job for a medium paying one remote one because i like to use my time my way**
+- 🎈 Fun Fact about me: I like to work remote and flexibly badly that i will reject a high paying onsite job for a medium paying one remote one because i like to use my time my way**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
