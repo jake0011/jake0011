@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Javascript, ReactJS, and co-managing a [startup company](wwww.televerseinc.net)**
 
-- 💬 Ask me about **Web and mobile development in React and React Native, Graphic Design with Canva, Edtech topics **
+- 💬 Ask me about **Web and mobile development in React and React Native, Graphic Design with Canva, Edtech topics**
 
-- 🎈 Fun Fact about me: I like to work remote and flexibly badly that i will reject a high paying onsite job for a medium paying one remote one because i like to use my time my way**
+- 🎈 Fun Fact about me: I like to work remote and flexibly badly that i will reject a high paying onsite job for a medium paying one remote one because i like to use my time my way.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:akuakujonathan5488@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/email" alt="jake01" height="40" width="40" /></a>
+<a href="mailto:akuakujonathan5488@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Gmail" alt="jake01" height="40" width="40" /></a>
 <a href="https://x.com/Ing_Edem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jake01" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/jonathan-akuaku-edem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jake0011" height="30" width="40" /></a>
 </p>
