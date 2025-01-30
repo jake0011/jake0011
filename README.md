@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jonathan Akuaku Edem, aka jake</h1>
-<h3 align="center">A Bsc.Computer Engineering graduate, currently exploring the tech space, but primarily a web and mobile dev fanboy</h3>
+<h3 align="center">A Bsc.Computer Engineering graduate, currently getting a MPhil degree in Computer Engineering, studying advanced computer engineering concepts like AI, Computer Architecture, IoT and Broadband Communication Networks. </h3>
 
 <p align="left"> <a href="https://x.com/Ing_Edem" target="blank"><img src="https://img.shields.io/twitter/follow/ingedem?logo=twitter&style=for-the-badge" alt="ingedem" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, ReactJS, and co-managing a [startup company](wwww.televerseinc.net)**
+- 🌱 I’m currently getting my masters in Computer Engineering, and co-managing a [startup company](wwww.televerseinc.net)**
 
-- 💬 Ask me about **Web and mobile development in React and React Native, Graphic Design with Canva, Edtech topics**
+- 💬 Ask me about **Internet of Things(IoT), Computer Security, Research and Development and Edtech topics**
 
 - 🎈 Fun Fact about me: I like to work remote and flexibly badly that i will reject a high paying onsite job for a medium paying remote one because i like to use my time my way.
 
