@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://x.com/Ing_Edem" target="blank"><img src="https://img.shields.io/twitter/follow/ingedem?logo=twitter&style=for-the-badge" alt="ingedem" /></a> </p>
 
-- 🌱 I’m currently getting my masters in Computer Engineering, and co-managing a [startup company](wwww.televerseinc.net)**
+- 🌱 I’m currently getting my masters in Computer Engineering. <!-- and co-managing a [startup company](wwww.televerseinc.net)** -->
 
-- 💬 Ask me about **Internet of Things(IoT), Computer Security, Research and Development and Edtech topics**
+- 💬 Ask me about **Cyber-Physcial Systems, Internet of Things(IoT), Computer Security, Research and Development and Edtech topics**
 
-- 🎈 Fun Fact about me: I like to work remote and flexibly badly that i will reject a high paying onsite job for a medium paying remote one because i like to use my time my way.
+<!--  - 🎈 Fun Fact about me: I like to work remote and flexibly badly that i will reject a high paying onsite job for a medium paying remote one because i like to use my time my way.-->
 
 <h3 align="left">Email me: <a href="mailto:akuakujonathan5488@gmail.com" target="blank"/>akuakujonathan5488@gmail.com </h3>
 <p align="left">
