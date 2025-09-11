@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **Cyber-Physcial Systems, Internet of Things(IoT), Computer Security, Research and Development and Edtech topics**
 
+- I like to teach. But teaching well is so involving and time-consuming.
+
 <!--  - 🎈 Fun Fact about me: I like to work remote and flexibly badly that i will reject a high paying onsite job for a medium paying remote one because i like to use my time my way.-->
 
 <h3 align="left">Email me: <a href="mailto:akuakujonathan5488@gmail.com" target="blank"/>akuakujonathan5488@gmail.com </h3>
