@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jonathan Akuaku Edem, aka jake</h1>
+<h1 align="center">Hi 👋, I'm jake</h1>
 <h3 align="center">A Bsc.Computer Engineering graduate, currently exploring IoT.</h3>
 
 <p align="left"> <a href="https://x.com/Ing_Edem" target="blank"><img src="https://img.shields.io/twitter/follow/ingedem?logo=twitter&style=for-the-badge" alt="ingedem" /></a> </p>
