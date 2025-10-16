@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://x.com/Ing_Edem" target="blank"><img src="https://img.shields.io/twitter/follow/ingedem?logo=twitter&style=for-the-badge" alt="ingedem" /></a> </p>
 
-- 🌱 I’m currently getting my masters in Computer Engineering. <!-- and co-managing a [startup company](wwww.televerseinc.net)** -->
+- 🌱 I’m currently getting my masters in Computer Engineering, and boy oh boyyyy. <!-- and co-managing a [startup company](wwww.televerseinc.net)** -->
 
 - 💬 Ask me about **Cyber-Physcial Systems, Internet of Things(IoT), Computer Security, Research and Development and Edtech topics**
 
